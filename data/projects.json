@@ -1,0 +1,38 @@
+{
+    "projects": [
+        {
+            "title": "Vulnerability Assessment Tool",
+            "description": "A tool for automated vulnerability scanning and reporting, built with Python and Flask.",
+            "image": "assets/images/vuln-tool.png",
+            "alt": "Screenshot of Vulnerability Assessment Tool",
+            "tech": [
+                "Python",
+                "Flask",
+                "Bootstrap"
+            ],
+            "liveDemo": "https://your-demo-link.com",
+            "github": "https://github.com/yourusername/vuln-tool"
+        },
+        {
+            "title": "Project Title 2",
+            "description": "A brief description of Project 2, highlighting its features and technologies used.",
+            "image": "assets/images/project2-screenshot.png",
+            "liveDemo": "https://example.com/project2",
+            "github": "https://github.com/username/project2"
+        },
+        {
+            "title": "Project Title 3",
+            "description": "A brief description of Project 3, highlighting its features and technologies used.",
+            "image": "assets/images/project3-screenshot.png",
+            "liveDemo": "https://example.com/project3",
+            "github": "https://github.com/username/project3"
+        },
+        {
+            "title": "Project Title 4",
+            "description": "A brief description of Project 4, highlighting its features and technologies used.",
+            "image": "assets/images/project4-screenshot.png",
+            "liveDemo": "https://example.com/project4",
+            "github": "https://github.com/username/project4"
+        }
+    ]
+}
